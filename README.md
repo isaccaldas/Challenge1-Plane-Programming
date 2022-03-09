@@ -1,5 +1,12 @@
 # Challenge1-Plane-Programming
 
+Challenge Outcome:
+The plane moves forward at a constant rate.
+
+The up/down arrows tilt the nose of the plane up and down.
+
+The camera follows along beside the plane as it flies.
+
 Programa apresentando bug.
 
 ![](https://user-images.githubusercontent.com/34041465/157343118-cf510f5a-d975-4e9c-a8c0-cf3a8cda90cc.gif)
